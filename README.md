@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Solidity ⟠ and Fastify 💨
 - 💬 Ask me about anything!
 - 📫 How to reach me: [Email me](mailto:hi@qedk.xyz) or [Twitter DMs](https://twitter.com/qedk_)!
-- 📖 Read my stuff at https://qedk.xyz!
+- 📖 Read my stuff at [qedk.xyz](https://qedk.xyz)!
 - ☕ [Buy me a coffee](https://www.buymeacoffee.com/qedk)!
 - 😄 Pronouns: he/him 🕺
 - ⚡ Fun fact: Chelsea 🔵 and Jeremy Zucker fan for life!  
