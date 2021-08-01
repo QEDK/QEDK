@@ -10,9 +10,11 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently building [Treasur](https://treasur.co)
 - 💻 Working as a software developer intern at Polygon (previously Matic Network) 
-- 🌱 I’m currently learning Solidity ⟠ and React ⚛
+- 🌱 I’m currently learning Solidity ⟠ and Fastify 💨
 - 💬 Ask me about anything!
-- 📫 How to reach me: [Twitter DMs](https://twitter.com/qedk_)! 
+- 📫 How to reach me: [Email me](mailto:hi@qedk.xyz) or [Twitter DMs](https://twitter.com/qedk_)!
+- 📖 Read my stuff at https://qedk.xyz!
+- ☕ [Buy me a coffee](https://www.buymeacoffee.com/qedk)!
 - 😄 Pronouns: he/him 🕺
 - ⚡ Fun fact: Chelsea 🔵 and Jeremy Zucker fan for life!  
 
