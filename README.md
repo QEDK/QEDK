@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently building [OpenSignal](https://github.com/QEDK/opensignal)
+- 🔭 I’m currently building [Conviction Voting](https://github.com/moonshotcollective/conviction-voting/)
 - 💻 Working as a blockchain engineer at Polygon (previously Matic Network) 
 - 🌱 I’m currently learning Solidity ⟠ and Fastify 💨
 - 💬 Ask me about anything!
