@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently building [Conviction Voting](https://github.com/moonshotcollective/conviction-voting/)
-- 💻 Working as a blockchain engineer at Polygon (previously Matic Network) 
+- 🔭 I’m currently building [Gitcoin Round Manager](https://github.com/gitcoinco/grants-round/)
+- 💻 Working as a smart contract engineer at Polygon (previously Matic Network) 
 - 🌱 I’m currently learning Solidity ⟠ and Fastify 💨
 - 💬 Ask me about anything!
 - 📫 How to reach me: [Email me](mailto:hi@qedk.xyz) or [Twitter DMs](https://twitter.com/qedk_)!
