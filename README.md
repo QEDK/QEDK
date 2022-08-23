@@ -7,8 +7,6 @@
 Here are some ideas to get you started:
 -->
 
-
-- 🔭 I’m currently building [Gitcoin Round Manager](https://github.com/gitcoinco/grants-round/)
 - 💻 Working as a smart contract engineer at Polygon (previously Matic Network) 
 - 🌱 I’m currently learning Solidity ⟠ and Fastify 💨
 - 💬 Ask me about anything!
