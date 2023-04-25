@@ -7,8 +7,8 @@
 Here are some ideas to get you started:
 -->
 
-- 💻 Working as a smart contract engineer at Polygon (previously Matic Network) 
-- 🌱 I’m currently learning Solidity ⟠ and Fastify 💨
+- 💻 Working as a smart contract engineer 2 at Polygon
+- 🌱 I’m currently learning Circom ⟠
 - 💬 Ask me about anything!
 - 📫 How to reach me: [Email me](mailto:hi@qedk.xyz) or [Twitter DMs](https://twitter.com/qedk_)!
 - 📖 Read my stuff at [qedk.xyz](https://qedk.xyz)!
