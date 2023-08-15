@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 -->
 
-- 💻 Ex-smart contract engineer 2 at Polygon
+- 💻 Senior R&D Engineer at Avail
 - 🌱 I’m currently learning Circom and Noir ⟠ 
 - 💬 Ask me about anything!
 - 📫 How to reach me: [Email me](mailto:hi@qedk.xyz) or [Twitter DMs](https://twitter.com/qedk_)!
