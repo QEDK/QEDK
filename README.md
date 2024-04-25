@@ -10,11 +10,11 @@ Here are some ideas to get you started:
 - 💻 Senior R&D Engineer at Avail
 - 🌱 I’m currently learning Circom and Noir ⟠ 
 - 💬 Ask me about anything!
-- 📫 How to reach me: [Email me](mailto:hi@qedk.xyz) or [Twitter DMs](https://twitter.com/qedk_)!
-- 📖 Read my stuff at [qedk.xyz](https://qedk.xyz)!
-- ☕ [Buy me a coffee](https://www.buymeacoffee.com/qedk)!
-- 😄 Pronouns: he/him 🕺
-- ⚡ Fun fact: Chelsea 🔵 and Jeremy Zucker fan for life!  
+- 📫 You can reach me via [email](mailto:hi@qedk.xyz) or [twitter](https://twitter.com/qedk_)
+- 📖 Read my stuff at [qedk.xyz](https://qedk.xyz)
+- ☕ [Buy me a coffee](https://www.buymeacoffee.com/qedk)
+- 😄 he/him 🕺
+- ⚡ Chelsea 🔵 and Jeremy Zucker fan for life!  
 
 <p align="center">
     <img
