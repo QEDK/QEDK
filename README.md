@@ -2,5 +2,6 @@
 
 - innovation maximalist
 - i work on building cross-chain and secure solutions at avail
+- i co-founded deq, a liquid staking protocol on ethereum for avail
 - i like fiddling with solidity, rust, go, really anything random
 - chelsea fan
